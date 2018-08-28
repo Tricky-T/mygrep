@@ -10,7 +10,9 @@
 2. It will be used for a string, not a regular expression
 3. It only needs to handle one file argument.
 
-## Syntax
+## How to Run
+
+After compiling,
 
 `mygrep STRING \[FILE\] \[OPTION(s)\]` (the file argument is optional).
 
